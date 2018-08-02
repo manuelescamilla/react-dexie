@@ -164,8 +164,8 @@ class App extends Component {
 					<p>I didn’t choose to show more charts because my focus is to better understand a certain aspect of the data.</p>
 					<p>There are potentially many things to show from the data</p>
 					<p><strong>API</strong> https://data.providenceri.gov/Finance/2017-Property-Tax-Roll/ku9m-5rhr</p>
-					<p><strong>Stack</strong> React, IndexedDB, Dexie.js, Ramda.js, react-jsx-highcharts 🖥️  Better viewing experience at 1024px+</p>
-					<p>🦄 Thanks for taking the time to view my code - Manuel</p>
+					<p><strong>Stack</strong> React, IndexedDB, Dexie.js, Ramda.js, react-jsx-highcharts <span role="img" aria-label="monitor">🖥️ </span> Better viewing experience at 1024px+</p>
+					<p><span role="img" aria-label="monitor">🦄 </span>Thanks for taking the time to view my code - Manuel</p>
 				</div>
       </div>
     );
