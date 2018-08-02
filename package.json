@@ -1,0 +1,21 @@
+{
+  "name": "react-dexie",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+		"dexie": "^2.0.4",
+    "highcharts": "^6.0.0",
+    "ramda": "^0.25.0",
+    "react": "^16.4.2",
+		"react-dom": "^16.4.2",
+		"react-jsx-highcharts": "^3.1.0",
+		"react-scripts": "1.1.4",
+		"react-spinners": "^0.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
